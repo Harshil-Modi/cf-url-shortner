@@ -2,7 +2,7 @@
   "private": true,
   "name": "url-shortner",
   "version": "1.0.0",
-  "description": "A private service that shortens the URL and redirects to the original URL",
+  "description": "A service for customizing shared URLs",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
